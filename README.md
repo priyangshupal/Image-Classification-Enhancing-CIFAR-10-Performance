@@ -1,8 +1,5 @@
 # Image-Classification-Enhancing-CIFAR-10-Performance-With-Modified-ResNet
 
-CS-GY 6953 / ECE-GY 7123 Deep Learning Mini-Project Spring 2024 <br />
-New York University (NYU) Tandon School of Engineering <br /> <br />
-
 This repository contains a deep learning model implementation for image classification using the **Modified ResNet Architecture**, which aims to improve performance on a **CIFAR-10** dataset under the constraint that the model **does not exceed 5 million trainable parameters** <br />
 
 ## Overview
